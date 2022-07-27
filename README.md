@@ -18,14 +18,14 @@
 </div>
 
 
-<h2> About Me </h2>
-- I am a Full Stack Engineer currently working at **[BB Array](https://bbarray.com/)** 🚀
-- I also have experience in Computer Vision, Deep Learning, Data Engineering, Architecture & System Design, and DevOps ⚡
-- Web 3.0 enthusiast 🌐
+## About Me
++ I am a Full Stack Engineer currently working at **[BB Array](https://bbarray.com/)** 🚀
++ I also have experience in Computer Vision, Deep Learning, Data Engineering, Architecture & System Design, and DevOps ⚡
++ Web 3.0 enthusiast 🌐
 
 
 
-<h2> Languages and Frameworks </h2>
+## Languages and Frameworks
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
@@ -57,7 +57,7 @@
 </div>
 
 
-<h2> My Stats </h2>
+## My Stats
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-javapocalypse) -->
 

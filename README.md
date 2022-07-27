@@ -1,6 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div id="header">  
 <div id="badges">
     <a href="https://stackoverflow.com/users/6156635/javapocalypse?tab=profile">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
@@ -14,25 +17,15 @@
 </div>
 </div>
 
----
 
-<h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
-
-### About Me
+<h2> About Me </h2>
 - I am a Full Stack Engineer currently working at **[BB Array](https://bbarray.com/)** 🚀
 - I also have experience in Computer Vision, Deep Learning, Data Engineering, Architecture & System Design, and DevOps ⚡
 - Web 3.0 enthusiast 🌐
 
 
 
----
-
-### Languages and Frameworks
+<h2> Languages and Frameworks </h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
@@ -64,9 +57,7 @@
 </div>
 
 
----
-### My Stats:
-
+<h2> My Stats </h2>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-javapocalypse) -->
 

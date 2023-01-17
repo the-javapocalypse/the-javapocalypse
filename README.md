@@ -14,8 +14,13 @@
   <a href="https://www.youtube.com/c/javapocalypse">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
+  <img src="https://img.shields.io/github/stars/the-javapocalypse?label=Stars&style=for-the-badge" alt="stars">
+  
+  <img src="https://komarev.com/ghpvc/?username=the-javapocalypse&style=for-the-badge&color=brightgreen" alt="watching_count" />
+  
 </div>
 </div>
+
 
 
 ## About Me

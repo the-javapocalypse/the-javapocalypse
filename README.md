@@ -24,11 +24,13 @@
 
 
 ## About Me
-![AWS Solutions Architect Associate](https://github.com/the-javapocalypse/the-javapocalypse/blob/main/badge.png?raw=true)
 + I am a Full Stack Engineer currently working at **[BB Array](https://bbarray.com/)** 🚀
 + I also have experience in Computer Vision, Deep Learning, Data Engineering, Architecture & System Design, and DevOps ⚡
 + Web 3.0 enthusiast 🌐
 
+## Certifications
+![AWS Solutions Architect Associate](https://github.com/the-javapocalypse/the-javapocalypse/blob/main/aws.png?raw=true)
+<img src="https://github.com/the-javapocalypse/the-javapocalypse/blob/main/udacity.png?raw=true" width="400">
 
 
 ## Languages and Frameworks

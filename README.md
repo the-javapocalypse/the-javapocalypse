@@ -77,6 +77,10 @@
 [![Muhammad Ali Zia's StackOverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=6156635)](https://stackoverflow.com/users/6156635/javapocalypse?tab=profile)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-javapocalypse&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+ GitHub Stats | Commits Streak 
+--- | ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-javapocalypse&show_icons=true&theme=radical&count_private=true&include_all_commits=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=the-javapocalypse&theme=radical)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=the-javapocalypse&theme=radical)](https://git.io/streak-stats)
+
+
+

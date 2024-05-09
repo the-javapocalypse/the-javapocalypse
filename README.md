@@ -24,7 +24,7 @@
 
 
 ## About Me
-+ I am a Full Stack Engineer currently working at **[BB Array](https://bbarray.com/)** 🚀
++ I am a Full Stack Engineer currently working at **[Phygrid, an Ombori company]([https://bbarray.com/](https://phygrid.com/))** 🚀
 + I also have experience in Computer Vision, Deep Learning, Data Engineering, Architecture & System Design, and DevOps ⚡
 + Web 3.0 enthusiast 🌐
 

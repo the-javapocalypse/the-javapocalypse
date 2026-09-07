@@ -54,13 +54,18 @@ Co-Founder at Gluai Studio and Lead Engineer at Autonomu, a cloud-based web-auto
 
 ## Certifications
 
-**AWS Solutions Architect Associate**
-
-![AWS Solutions Architect Associate](https://github.com/the-javapocalypse/the-javapocalypse/blob/main/aws.png?raw=true)
-
-**Udacity certificate**
-
-<img src="https://github.com/the-javapocalypse/the-javapocalypse/blob/main/udacity.png?raw=true" width="400" alt="Udacity certificate">
+<table>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <p><b>AWS Solutions Architect Associate</b></p>
+      <img src="https://github.com/the-javapocalypse/the-javapocalypse/blob/main/aws.png?raw=true" width="400" alt="AWS Solutions Architect Associate">
+    </td>
+    <td align="center" valign="top" width="50%">
+      <p><b>Udacity certificate</b></p>
+      <img src="https://github.com/the-javapocalypse/the-javapocalypse/blob/main/udacity.png?raw=true" width="400" alt="Udacity certificate">
+    </td>
+  </tr>
+</table>
 
 ## Featured Projects
 

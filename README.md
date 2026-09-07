@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F74780&background=0D1117&center=true&vCenter=true&width=650&height=50&lines=Full+Stack+Engineer+%40+Phygrid;Computer+Vision+%26+Deep+Learning;Architecture+%26+System+Design;Web+3.0+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F74780&background=0D1117&center=true&vCenter=true&width=650&height=50&lines=Co-Founder+%40+Gluai+Studio;Lead+Engineer+%40+Autonomu;Computer+Vision+%26+Deep+Learning;Architecture+%26+System+Design;Web+3.0+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,21 +23,26 @@
 
 ```yaml
 name: Muhammad Ali Zia
-role: Full Stack Engineer
-company: Phygrid, an Ombori company
-background: [Full Stack, Computer Vision, Deep Learning, Data Engineering, Architecture & System Design, DevOps]
+currently:
+  - Co-Founder, Gluai Studio
+  - Lead Engineer, Autonomu (cloud-based web-automation platform)
+previously: Domain Technical Lead, Core Platform — Ombori (Phygrid / PhyStack)
+experience: 7+ years
+background: [Full Stack, Cloud-native & Serverless, IoT, Architecture & System Design, Platform Leadership, Applied AI]
+certs: [AWS Solutions Architect Associate]
 interest: Web 3.0
 ```
 
-Full Stack Engineer at [Phygrid, an Ombori company](https://phygrid.com/). Background across full stack engineering, computer vision, deep learning, data engineering, architecture and system design, and DevOps. Web 3.0 enthusiast.
+Co-Founder at Gluai Studio and Lead Engineer at Autonomu, a cloud-based web-automation platform. Previously Domain Technical Lead for the PhyStack core platform at [Ombori / Phygrid](https://phygrid.com/). 7+ years as a full stack engineer and AWS Solutions Architect Associate, building cloud-native and serverless applications, IoT and core platforms, and leading teams on client delivery. Web 3.0 enthusiast.
 
 ## What I Do Best
 
-- **Full Stack Engineering** — ship web applications end to end, from UI to APIs and data stores
-- **Computer Vision & Deep Learning** — apply CV and DL to practical problems
-- **Data Engineering** — work with pipelines, processing, and data-backed services
-- **Architecture & System Design** — design systems that stay coherent as they grow
-- **DevOps** — keep builds, deployments, and operations running
+- **Full Stack Engineering** — MERN/MEAN, TypeScript, and React Native; discovery through production
+- **Cloud-native & Serverless** — AWS (Solutions Architect Associate); efficiency, scale, and cost
+- **Core Platforms & IoT** — PhyStack core platform; replaced Azure IoT Hub; scaled from ~400k to ~1.8B monthly events
+- **Architecture & System Design** — microservices, RBAC, billing, hardware abstraction
+- **Team & Client Leadership** — led engineering teams and owned client scoping/delivery
+- **Applied AI** — AI analytics (Data Studio MVP), Hugging Face / LangChain, edge AI deployment
 
 ## Certifications
 

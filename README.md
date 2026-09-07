@@ -69,27 +69,32 @@ Co-Founder at Gluai Studio and Lead Engineer at Autonomu, a cloud-based web-auto
 
 ## Featured Projects
 
-<!-- [PLACEHOLDER] Replace the two cards below with real projects. Keep the table structure. -->
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>[PLACEHOLDER: Project Title]</h3>
-      <p>[PLACEHOLDER: One-line description]</p>
-      <p><b>Stack:</b> [PLACEHOLDER]</p>
-      <p>
-        <a href="[PLACEHOLDER]">Live</a> ·
-        <a href="[PLACEHOLDER]">Source</a>
-      </p>
+      <h3>Phygrid</h3>
+      <p>Digital experiences in physical spaces — smart technology for human store experiences.</p>
+      <p><b>Stack:</b> MERN, TypeScript, Python, MongoDB, Kubernetes, Grafana</p>
+      <p><a href="https://phygrid.com/">Live</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>[PLACEHOLDER: Project Title]</h3>
-      <p>[PLACEHOLDER: One-line description]</p>
-      <p><b>Stack:</b> [PLACEHOLDER]</p>
-      <p>
-        <a href="[PLACEHOLDER]">Live</a> ·
-        <a href="[PLACEHOLDER]">Source</a>
-      </p>
+      <h3>Autonomu</h3>
+      <p>No-Code Visual Test Automation.</p>
+      <p><a href="https://www.autonomu.com/">Live</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>PhyStack</h3>
+      <p>Physical AI infrastructure — the nervous system connecting models to hardware.</p>
+      <p><b>Stack:</b> MERN, TypeScript, Python, MongoDB, Kubernetes, Grafana</p>
+      <p><a href="https://phystack.com/">Live</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Gluai Studio</h3>
+      <p>Design-led technology studio that delivers bespoke digital solutions for clients — and builds its own SaaS products and consumer apps.</p>
+      <p><b>Stack:</b> MERN, TypeScript, React Native, MongoDB, AWS, Socket.IO, Docker, Grafana</p>
+      <p><a href="https://gluai.studio/">Live</a></p>
     </td>
   </tr>
 </table>

@@ -5,6 +5,10 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: profile-readme-assets
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -23,10 +27,27 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
+          set -euo pipefail
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          if git commit -m "generated"; then
-            git pull --rebase origin "${GITHUB_REF_NAME}"
-            git push origin "${GITHUB_REF_NAME}"
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
           fi
+          git commit -m "generated"
+
+          branch="${GITHUB_REF_NAME:-main}"
+          for attempt in 1 2 3 4 5; do
+            echo "Push attempt ${attempt}"
+            git fetch origin "${branch}"
+            git rebase "origin/${branch}"
+            if git push origin "HEAD:${branch}"; then
+              echo "Push succeeded"
+              exit 0
+            fi
+            echo "Push rejected, retrying..."
+            sleep $((attempt * 3))
+          done
+          echo "Failed to push after retries"
+          exit 1

@@ -84,100 +84,66 @@ Full Stack Engineer at [Phygrid, an Ombori company](https://phygrid.com/). Backg
 **Cloud**
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp" alt="Cloud" />
-  </a>
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
-  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"/>
+  <img src="https://skills.syvixor.com/api/icons?i=amazonwebservices,azure,googlecloud,serverless" alt="Cloud" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=lambda" alt="Lambda" />
 </p>
 
 **Backend**
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,sequelize,nodejs,flask,fastapi,django,laravel,kafka" alt="Backend" />
-  </a>
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO"/>
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC"/>
-  <img src="https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth0"/>
-  <img src="https://img.shields.io/badge/BullMQ-1E1E1E?style=for-the-badge" alt="BullMQ"/>
-  <img src="https://img.shields.io/badge/Loki-F8A31B?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki"/>
-  <img src="https://img.shields.io/badge/Cheerio-E88C23?style=for-the-badge" alt="Cheerio"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" alt="Mongoose"/>
+  <img src="https://skills.syvixor.com/api/icons?i=expressjs,sequelize,nodejs,flask,fastapi,django,laravel,kafka,socketio,auth0,bullmq,loki" alt="Backend" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongoose" alt="Mongoose" />
+  <img src="https://cdn.simpleicons.org/webrtc/333333" height="48" width="48" alt="WebRTC" />
+  <img src="https://cdn.simpleicons.org/cheerio/E88C23" height="48" width="48" alt="Cheerio" />
 </p>
 
 **Frontend**
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react,redux,vue,jquery,materialui,css,html,bootstrap,tailwind,sass" alt="Frontend" />
-  </a>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/>
-  <img src="https://img.shields.io/badge/Jotai-000000?style=for-the-badge" alt="Jotai"/>
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white" alt="Puppeteer"/>
-  <img src="https://img.shields.io/badge/Magento-EC6737?style=for-the-badge&logo=magento&logoColor=white" alt="Magento"/>
+  <img src="https://skills.syvixor.com/api/icons?i=angularjs,reactjs,redux,vuejs,jquery,materialui,css3,html,bootstrap,tailwindcss,sass,reactnative,reactquery,jotai,puppeteer" alt="Frontend" />
+  <img src="https://cdn.simpleicons.org/magento/EC6737" height="48" width="48" alt="Magento" />
 </p>
 
 **Data / ML**
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,anaconda,selenium" alt="Data and ML" />
-  </a>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Synapse"/>
+  <img src="https://skills.syvixor.com/api/icons?i=opencv,anaconda,pandas,huggingface,langchain,azuresynapse" alt="Data and ML" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" alt="Selenium" />
 </p>
 
 **DevOps**
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=grafana,jenkins,docker,git,nginx,kubernetes,terraform,github,gitlab,githubactions,sentry" alt="DevOps" />
-  </a>
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
-  <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="Argo CD"/>
-  <img src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale"/>
-  <img src="https://img.shields.io/badge/Husky-F5A623?style=for-the-badge" alt="Husky"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://skills.syvixor.com/api/icons?i=grafana,jenkins,docker,git,nginx,kubernetes,terraform,github,gitlab,githubactions,sentry,apache,argocd,tailscale,jira" alt="DevOps" />
+  <img src="https://cdn.simpleicons.org/husky/F5A623" height="48" width="48" alt="Husky" />
 </p>
 
 **Databases**
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" alt="Databases" />
-  </a>
-  <img src="https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white" alt="CouchDB"/>
-  <img src="https://img.shields.io/badge/Cosmos_DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white" alt="Cosmos DB"/>
+  <img src="https://skills.syvixor.com/api/icons?i=mysql,mongodb,postgresql,redis" alt="Databases" />
+  <img src="https://cdn.simpleicons.org/apachecouchdb/E42528" height="48" width="48" alt="CouchDB" />
+  <img src="https://cdn.simpleicons.org/azurecosmosdb/0078D4" height="48" width="48" alt="Cosmos DB" />
 </p>
 
 **Languages**
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,solidity" alt="Languages" />
-  </a>
+  <img src="https://skills.syvixor.com/api/icons?i=javascript,typescript,python,solidity" alt="Languages" />
 </p>
 
 **AI Tooling**
 
 <p>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
-  <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://skills.syvixor.com/api/icons?i=cursor,claudecode,codex,githubcopilot" alt="AI Tooling" />
 </p>
 
 **Web3**
 
 <p>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
-  <img src="https://img.shields.io/badge/Truffle-3FE0C5?style=for-the-badge" alt="Truffle"/>
-  <img src="https://img.shields.io/badge/Ganache-E731A1?style=for-the-badge" alt="Ganache"/>
-  <img src="https://img.shields.io/badge/Infura-FF6B4A?style=for-the-badge" alt="Infura"/>
+  <img src="https://skills.syvixor.com/api/icons?i=ganache" alt="Ganache" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=truffle,infura" alt="Truffle and Infura" />
+  <img src="https://cdn.simpleicons.org/web3dotjs/F16822" height="48" width="48" alt="Web3.js" />
 </p>
 
 </details>

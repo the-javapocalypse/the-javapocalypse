@@ -25,10 +25,18 @@
 name: Muhammad Ali Zia
 currently:
   - Co-Founder, Gluai Studio
-  - Lead Engineer, Autonomu (cloud-based web-automation platform)
+  - Lead Engineer, Autonomu
 previously: Domain Technical Lead, Core Platform — Ombori (Phygrid / PhyStack)
 experience: 7+ years
-background: [Full Stack, Cloud-native & Serverless, IoT, Architecture & System Design, Platform Leadership, Applied AI]
+background:
+  [
+    Full Stack,
+    Cloud-native & Serverless,
+    IoT,
+    Architecture & System Design,
+    Platform Leadership,
+    Applied AI,
+  ]
 certs: [AWS Solutions Architect Associate]
 interest: Web 3.0
 ```
@@ -42,7 +50,7 @@ Co-Founder at Gluai Studio and Lead Engineer at Autonomu, a cloud-based web-auto
 - **Core Platforms & IoT** — PhyStack core platform; replaced Azure IoT Hub; scaled from ~400k to ~1.8B monthly events
 - **Architecture & System Design** — microservices, RBAC, billing, hardware abstraction
 - **Team & Client Leadership** — led engineering teams and owned client scoping/delivery
-- **Applied AI** — AI analytics (Data Studio MVP), Hugging Face / LangChain, edge AI deployment
+- **Applied AI** — AI analytics, Hugging Face / LangChain, edge AI deployment
 
 ## Certifications
 

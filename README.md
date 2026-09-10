@@ -1,22 +1,22 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F74780&background=0D1117&center=true&vCenter=true&width=650&height=50&lines=Co-Founder+%40+Gluai+Studio;Lead+Engineer+%40+Autonomu;Computer+Vision+%26+Deep+Learning;Architecture+%26+System+Design;Web+3.0+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7F22FE&background=0D1117&center=true&vCenter=true&width=650&height=50&lines=Co-Founder+%40+Gluai+Studio;Lead+Engineer+%40+Autonomu;Computer+Vision+%26+Deep+Learning;Architecture+%26+System+Design;Web+3.0+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/javapocalypse/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7F22FE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/6156635/javapocalypse?tab=profile">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
+    <img src="https://img.shields.io/badge/Stack_Overflow-7F22FE?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Badge"/>
   </a>
   <a href="https://www.youtube.com/c/javapocalypse">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-7F22FE?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <img src="https://img.shields.io/github/stars/the-javapocalypse?label=Stars&style=for-the-badge" alt="GitHub stars"/>
-  <img src="https://img.shields.io/github/followers/the-javapocalypse?label=Followers&style=for-the-badge" alt="GitHub followers"/>
-  <img src="https://komarev.com/ghpvc/?username=the-javapocalypse&style=for-the-badge&color=brightgreen" alt="Profile views"/>
+  <img src="https://img.shields.io/github/stars/the-javapocalypse?label=Stars&style=for-the-badge&color=7F22FE" alt="GitHub stars"/>
+  <img src="https://img.shields.io/github/followers/the-javapocalypse?label=Followers&style=for-the-badge&color=7F22FE" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=the-javapocalypse&style=for-the-badge&color=7F22FE" alt="Profile views"/>
 </p>
 
 ## About Me
@@ -202,15 +202,15 @@ Co-Founder at Gluai Studio and Lead Engineer at Autonomu, a cloud-based web-auto
 
 [![Muhammad Ali Zia's StackOverflow Stats](https://github-readme-stackoverflow.vercel.app/?userID=6156635)](https://stackoverflow.com/users/6156635/javapocalypse?tab=profile)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=the-javapocalypse&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=the-javapocalypse&background=0D1117&border=7F22FE&ring=7F22FE&fire=7F22FE&currStreakNum=7F22FE&sideNums=7F22FE&currStreakLabel=7F22FE&sideLabels=7F22FE&dates=A1A1AA)](https://git.io/streak-stats)
 
 ## GitHub Analytics
 
-[![](https://raw.githubusercontent.com/the-javapocalypse/the-javapocalypse/main/profile-summary-card-output/nightowl/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/the-javapocalypse/the-javapocalypse/main/profile-summary-card-output/nightowl/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/the-javapocalypse/the-javapocalypse/main/profile-summary-card-output/nightowl/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/the-javapocalypse/the-javapocalypse/main/profile-summary-card-output/nightowl/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/the-javapocalypse/the-javapocalypse/main/profile-summary-card-output/nightowl/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=the-javapocalypse&theme=github_dark&title_color=7F22FE&icon_color=7F22FE&chart_color=7F22FE)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=the-javapocalypse&theme=github_dark&title_color=7F22FE&icon_color=7F22FE&chart_color=7F22FE)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=the-javapocalypse&theme=github_dark&title_color=7F22FE&icon_color=7F22FE&chart_color=7F22FE)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=the-javapocalypse&theme=github_dark&title_color=7F22FE&icon_color=7F22FE&chart_color=7F22FE)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=the-javapocalypse&theme=github_dark&utcOffset=4&title_color=7F22FE&icon_color=7F22FE&chart_color=7F22FE)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 3D Contribution Calendar
 
@@ -220,13 +220,13 @@ Co-Founder at Gluai Studio and Lead Engineer at Autonomu, a cloud-based web-auto
 
 <p>
   <a href="https://www.linkedin.com/in/javapocalypse/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7F22FE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:muhammad.17ali@gmail.com">
-    <img src="https://img.shields.io/badge/Email-muhammad.17ali%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-muhammad.17ali%40gmail.com-7F22FE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:F74780&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:7F22FE&height=120&section=footer" width="100%" alt="footer"/>
 </p>

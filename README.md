@@ -75,26 +75,23 @@ Co-Founder at Gluai Studio and Lead Engineer at Autonomu, a cloud-based web-auto
       <a href="https://phygrid.com/">
         <img src="./featured/phygrid.png" width="100%" alt="Phygrid" />
       </a>
-      <h3>Phygrid</h3>
+      <h3><a href="https://phygrid.com/">Phygrid</a></h3>
       <p>Digital experiences in physical spaces — smart technology for human store experiences.</p>
       <p><b>What I did</b></p>
       <ul>
         <li>Domain Technical Lead, Core Platform at Ombori / Phygrid</li>
       </ul>
-      <p><b>Stack:</b> MERN, TypeScript, Python, MongoDB, Kubernetes, Grafana</p>
-      <p><a href="https://phygrid.com/">Live</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://www.autonomu.com/">
         <img src="./featured/autonomu.png" width="100%" alt="Autonomu" />
       </a>
-      <h3>Autonomu</h3>
+      <h3><a href="https://www.autonomu.com/">Autonomu</a></h3>
       <p>No-Code Visual Test Automation.</p>
       <p><b>What I did</b></p>
       <ul>
         <li>Lead Engineer</li>
       </ul>
-      <p><a href="https://www.autonomu.com/">Live</a></p>
     </td>
   </tr>
   <tr>
@@ -102,7 +99,7 @@ Co-Founder at Gluai Studio and Lead Engineer at Autonomu, a cloud-based web-auto
       <a href="https://phystack.com/">
         <img src="./featured/phystack.png" width="100%" alt="PhyStack" />
       </a>
-      <h3>PhyStack</h3>
+      <h3><a href="https://phystack.com/">PhyStack</a></h3>
       <p>Physical AI infrastructure — the nervous system connecting models to hardware.</p>
       <p><b>What I did</b></p>
       <ul>
@@ -112,14 +109,12 @@ Co-Founder at Gluai Studio and Lead Engineer at Autonomu, a cloud-based web-auto
         <li>Hardware twins; AI Edge Applications (one-click deploy)</li>
         <li>Console 2.0 UI/UX; hub-client integration package</li>
       </ul>
-      <p><b>Stack:</b> MERN, TypeScript, Python, MongoDB, Kubernetes, Grafana</p>
-      <p><a href="https://phystack.com/">Live</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://gluai.studio/">
         <img src="./featured/gluai.png" width="100%" alt="Gluai Studio" />
       </a>
-      <h3>Gluai Studio</h3>
+      <h3><a href="https://gluai.studio/">Gluai Studio</a></h3>
       <p>Design-led technology studio that delivers bespoke digital solutions for clients — and builds its own SaaS products and consumer apps.</p>
       <p><b>What I did</b></p>
       <ul>
@@ -127,8 +122,6 @@ Co-Founder at Gluai Studio and Lead Engineer at Autonomu, a cloud-based web-auto
         <li>Visitor management with enrolled Android devices and CMS</li>
         <li>Data Studio MVP for AI analytics and reporting</li>
       </ul>
-      <p><b>Stack:</b> MERN, TypeScript, React Native, MongoDB, AWS, Socket.IO, Docker, Grafana</p>
-      <p><a href="https://gluai.studio/">Live</a></p>
     </td>
   </tr>
 </table>
@@ -229,9 +222,8 @@ Co-Founder at Gluai Studio and Lead Engineer at Autonomu, a cloud-based web-auto
   <a href="https://www.linkedin.com/in/javapocalypse/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- [PLACEHOLDER] Replace the badge label and mailto with your email address. -->
-  <a href="mailto:[PLACEHOLDER]">
-    <img src="https://img.shields.io/badge/Email-[PLACEHOLDER]-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:muhammad.17ali@gmail.com">
+    <img src="https://img.shields.io/badge/Email-muhammad.17ali%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 

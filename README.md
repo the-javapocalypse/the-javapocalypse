@@ -124,6 +124,20 @@ Co-Founder at Gluai Studio and Lead Engineer at Autonomu, a cloud-based web-auto
       </ul>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://kpod.kaispe.com/">
+        <img src="./featured/kpod.png" width="100%" alt="KPoD" />
+      </a>
+      <h3><a href="https://kpod.kaispe.com/">KPoD</a></h3>
+      <p>Cloud-based digital proof of delivery — track every order in real time.</p>
+      <p><b>What I did</b></p>
+      <ul>
+        <li>Developed the app alone, end to end</li>
+        <li>Published it on the <a href="https://apps.apple.com/us/app/kpod-proof-of-delivery/id6766843898">Apple App Store</a> and <a href="https://play.google.com/store/apps/details?id=com.kaispe.kpod">Google Play</a></li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ## Tech Stack
